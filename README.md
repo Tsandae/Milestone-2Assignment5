@@ -29,6 +29,6 @@ The dataset is part of `sklearn.datasets`:
 ## **Setup Instructions**
 
 ### **Prerequisites**
-Ensure Python is installed (>=3.7). Install the required libraries using:
+Ensure Python (Jupyter) is installed . Install the required libraries using:
 ```cmd
 pip install 
